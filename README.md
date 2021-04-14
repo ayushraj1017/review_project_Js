@@ -1,2 +1,2 @@
 # review_project_Js
-# Click on next to check for reviews
+# Click on next and Previous button to check for reviews
